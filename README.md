@@ -10,8 +10,11 @@ This project transforms personal Spotify data into an interactive Power BI dashb
 ## 🖥️Live Dashboard
 Link for the Spotify Analysis Dashboard -  [Live Dashboard]( https://app.powerbi.com/groups/me/reports/19e26e67-b09b-4763-bb5c-80b22cff067d/f4f13cf6c6cb9ded175d?experience=power-bi)
 ## Spotify Dashboard
-   overview page
-    [spotify overview]( https://github.com/Shahna-k25/Spotify-Analysis/blob/main/spotify%20overview.png)
+  - overview page
+    ![spotify overview](https://github.com/Shahna-k25/Spotify-Analysis/blob/main/spotify%20overview.png)
+- Listening Patterns
+   ![spotify overview](https://github.com/Shahna-k25/Spotify-Analysis/blob/main/spotify%20overview.png)
+## Tools Used
 ## Analysis Requirements
 - Albums
     - Total Albums Played Over Time – Track monthly and yearly album-listening trends.
