@@ -8,7 +8,7 @@ Reveals weekday vs. weekend habits and changes in music preferences over time.
 Spotify provides detailed streaming data, but the raw export is hard to interpret and doesn’t easily reveal listening habits or trends.
 This project transforms personal Spotify data into an interactive Power BI dashboard that highlights total plays, year-over-year trends, top artists, albums, and tracks—making it simple to understand music preferences and how they change over time.
 ## 🖥️Live Dashboard
-Link for the Spotify Analysis Dashboard -  [Live Dashboard]( https://app.powerbi.com/groups/me/reports/19e26e67-b09b-4763-bb5c-80b22cff067d/f4f13cf6c6cb9ded175d?experience=power-bi)
+Link for the Spotify Analysis Dashboard -  [Live Dashboard](https://app.powerbi.com/groups/me/reports/19e26e67-b09b-4763-bb5c-80b22cff067d/f4f13cf6c6cb9ded175d?experience=power-bi)
 ## Spotify Dashboard
   - overview page
     ![spotify overview](https://github.com/Shahna-k25/Spotify-Analysis/blob/main/spotify%20overview.png)
