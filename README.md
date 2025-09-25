@@ -13,7 +13,7 @@ Link for the Spotify Analysis Dashboard -  [Live Dashboard]( https://app.powerbi
   - overview page
     ![spotify overview](https://github.com/Shahna-k25/Spotify-Analysis/blob/main/spotify%20overview.png)
 - Listening Patterns
-   ![spotify overview](https://github.com/Shahna-k25/Spotify-Analysis/blob/main/spotify%20overview.png)
+   ![spotify listening](https://github.com/Shahna-k25/Spotify-Analysis/blob/main/spotify%20listening.png)
 ## Tools Used
 ## Analysis Requirements
 - Albums
